@@ -9,7 +9,6 @@
 | 项目 | 说明 |
 | --- | --- |
 | [wxapkg_gui](https://github.com/ahao0150/wxapkg_gui) | 微信小程序包（wxapkg）解包 GUI · **27 ★** |
-| [MapleStory-Server-079-vscode](https://github.com/ahao0150/MapleStory-Server-079-vscode) | 冒险岛 079 私服服务端 · **12 ★** |
 | [dsh-flow-canvas](https://github.com/ahao0150/dsh-flow-canvas) | DeepSeek Harness 可交互流程图插件 |
 
 ## 技术栈
