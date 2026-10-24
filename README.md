@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm aHao 👋
 
-<!--
-**ahao0150/ahao0150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+全栈开发 · 游戏工具链 · AI 资产流水线
 
-Here are some ideas to get you started:
+**在做**：小游戏（微信 / 抖音双端）· AI 生成美术流水线（ComfyUI + 分层切割 + 位图字体）· DeepSeek Harness 插件
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 代表项目
+
+| 项目 | 说明 |
+| --- | --- |
+| [wxapkg_gui](https://github.com/ahao0150/wxapkg_gui) | 微信小程序包（wxapkg）解包 GUI · **27 ★** |
+| [MapleStory-Server-079-vscode](https://github.com/ahao0150/MapleStory-Server-079-vscode) | 冒险岛 079 私服服务端 · **12 ★** |
+| [dsh-flow-canvas](https://github.com/ahao0150/dsh-flow-canvas) | DeepSeek Harness 可交互流程图插件 |
+
+## 技术栈
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/-ComfyUI-0F1720?style=flat-square)
+
+---
+
+<sub>公开仓库多为参考与收藏，主要工作在私有仓库。</sub>
