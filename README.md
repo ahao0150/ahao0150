@@ -2,13 +2,14 @@
 
 全栈开发 · 游戏工具链 · AI 资产流水线
 
-**在做**：小游戏（微信 / 抖音双端）· 小游戏框架 [gamekit](https://github.com/ahao0150/gamekit) · AI 生成美术流水线（ComfyUI + 分层切割 + 位图字体）· DeepSeek Harness 插件
+**在做**：小游戏（微信 / 抖音双端）· 小游戏框架 [gamekit](https://github.com/ahao0150/gamekit) · 骨骼动画编辑器 [BoneStudio](https://github.com/ahao0150/bone-studio) · AI 生成美术流水线（ComfyUI + 分层切割 + 位图字体）· DeepSeek Harness 插件
 
 ## 代表项目
 
 | 项目 | 说明 |
 | --- | --- |
 | [gamekit](https://github.com/ahao0150/gamekit) | 小游戏框架 · Vite + TypeScript，一套代码出 Web / 微信 / 抖音三端，内含 4 个可直接跑的示例 |
+| [bone-studio](https://github.com/ahao0150/bone-studio) | DragonBones 兼容的 2D 骨骼动画编辑器 · 浏览器里跑，读写 DragonBones 5.x 工程与 `.dbbin` 二进制，导入 Spine 4.1 / 4.2 |
 | [wxapkg_gui](https://github.com/ahao0150/wxapkg_gui) | 微信小程序包（wxapkg）解包 GUI · **27 ★** |
 | [dsh-flow-canvas](https://github.com/ahao0150/dsh-flow-canvas) | DeepSeek Harness 可交互流程图插件 |
 
